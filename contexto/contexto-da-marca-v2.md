@@ -31,9 +31,9 @@ Transformar o caos de dados em inteligência estratégica — e a invisibilidade
 
 ## Visão
 
-Ser a principal referência em engenharia de dados, automação com IA e estratégia digital para construtoras PME e agronegócio do Brasil central — e expandir para todo o território nacional, tornando a cultura de dados e presença digital inteligente tão natural nessas empresas quanto a gestão financeira é hoje.
+Ser a principal referência em engenharia de dados, custamização de sistemas,  automação com IA e estratégia digital para construtoras PME e agronegócio do Brasil central — e expandir para todo o território nacional, tornando a cultura de dados e presença digital inteligente tão natural nessas empresas quanto a gestão financeira é hoje.
 
-> *"Quem não estrutura seus dados, paga caro pelo que não enxerga. Quem não aparece, não existe."*
+
 
 ---
 
@@ -62,7 +62,7 @@ O sucesso da Tondara depende do sucesso do cliente. Buscamos relações de longo
 
 ## Posicionamento no Mercado
 
-A Tondara ocupa um espaço estratégico único: **a consultoria boutique de dados, IA e estratégia digital focada em construtoras e agronegócio do Centro-Oeste**.
+A Tondara ocupa um espaço estratégico único: **a consultoria  de dados, IA e estratégia digital focada em construtoras e agronegócio do Centro-Oeste**.
 
 ### Por que esse posicionamento?
 
@@ -84,7 +84,7 @@ Entre as grandes consultorias (inacessíveis para PMEs) e os freelancers avulsos
 
 1. **Stack completa sob um teto** — Dados + Software + IA + Sites + Tráfego + CRM — tudo integrado, sem o cliente gerenciar 5 fornecedores que não conversam.
 2. **Foco vertical** — Não somos generalistas. Entendemos a linguagem de construtoras (INCC, CUB, cronograma físico-financeiro, BIM) e do agro (safra, INMET, compliance ESG, cooperativas).
-3. **Base técnica de ponta** — Unicamp não é grife — é garantia de rigor técnico em engenharia de dados.
+3. **Base técnica de ponta** — Unicamp é garantia de rigor técnico em engenharia de dados.
 4. **Cultura GROW** — Crescimento contínuo, não venda pontual. Retainers mensais, evolução incremental, parceria real.
 5. **Origem empreendedora** — Leiryelton e Brenda construíram do zero. Entendem a dor de quem empreende com recurso limitado e precisão máxima.
 
@@ -139,7 +139,7 @@ A identidade visual da Tondara deve refletir os dois mundos que serve: a solidez
 
 ### Paleta de Cores
 - **Primárias:** Tons de azul-petróleo profundo (confiança técnica, engenharia) + verde-terra escuro (agronegócio, crescimento orgânico)
-- **Secundárias:** Cinza-concreto (construção, solidez) + dourado/âmbar terroso (valor, colheita, resultado)
+- **Secundárias:** Cinza-claro (construção, solidez) + dourado/âmbar pessego claro (valor, colheita, resultado)
 - **Neutras:** Branco, cinzas claros para respiro e legibilidade
 
 ### Tipografia
@@ -148,9 +148,9 @@ A identidade visual da Tondara deve refletir os dois mundos que serve: a solidez
 - Evitar: serifas decorativas, scripts, tipografia "tech startup" genérica
 
 ### Estética Geral
-- **Sólida, não rígida.** A Tondara não é uma startup de garagem nem uma consultoria de paletó. É uma boutique técnica com raiz familiar.
+- **Sólida, não rígida.** A Tondara não é uma startup de garagem nem uma consultoria de paletó. É uma  técnica com raiz familiar.
 - **Dados como visual.** Grafos, fluxos de pipeline, dashboards estilizados como elementos gráficos — não decoração, mas identidade.
-- **Fotografia real.** Canteiros de obra, lavouras, dashboards em tela, o casal trabalhando. Nada de stock genérico com gente sorrindo em escritório.
+- **Fotografia real.** Canteiros de obra, lavouras, dashboards em tela, o casal trabalhando em meio de campo. Nada de stock genérico com gente sorrindo em escritório.
 - **Texturas contextuais.** Concreto aparente, grãos, terra — como backdrop sutil que conecta com a realidade do cliente.
 
 ### Aplicação no Logo
@@ -166,7 +166,7 @@ O logo deve funcionar em contexto de construção civil (banner de obra, capacet
 | **Geografia** | Goiânia → Brasília → Interior de GO → Centro-Oeste |
 | **Cultura** | GROW — crescimento contínuo, mensurável, sustentável |
 | **Stack** | Dados + Software + IA + Sites + Tráfego + CRM |
-| **Posicionamento** | Boutique técnica vertical para construtoras e agro |
+| **Posicionamento** |  técnica vertical para construtoras e agro |
 | **Diferencial** | Stack completa + foco setorial + Unicamp + parceria real |
 | **Competição** | Oceano azul em construtoras PME no Centro-Oeste |
 | **Expansão** | Logística (ano 2+), nacional (ano 3+) |

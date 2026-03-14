@@ -45,7 +45,7 @@ Não vendemos ferramentas. Vendemos infraestrutura operacional e digital que ger
 
 **Para construtoras:** Portal de acompanhamento onde o comprador do imóvel vê o progresso da obra em tempo real. CRM que acompanha o pipeline desde o lead do stand até a escritura, com follow-up automático. Sistema que consolida relatórios de engenheiros de campo em formato padronizado.
 
-**Para agro:** CRM que gerencia relacionamento com cooperados, compradores e fornecedores de insumos. Plataforma de controle de estoque que prevê ponto de reposição baseado em sazonalidade. Portal para cooperados acompanharem status de entrega e faturamento.
+
 
 ---
 
@@ -94,7 +94,7 @@ Não vendemos ferramentas. Vendemos infraestrutura operacional e digital que ger
 - Design responsivo e otimizado para conversão (não template genérico — sob medida para o negócio)
 - SEO técnico e de conteúdo focado em busca local (ex: "construtora Goiânia", "cooperativa agrícola Goiás")
 - Google Meu Negócio — configuração, otimização e gestão
-- Tráfego pago com precisão cirúrgica (Meta Ads, Google Ads) — segmentação por cargo, setor e geografia
+- Tráfego pago com precisão  (Meta Ads, Google Ads) — segmentação por cargo, setor e geografia
 - Estratégia de conteúdo para LinkedIn e Instagram (calendário editorial, copywriting, design de posts)
 - Funis de conversão: lead magnet → diagnóstico gratuito → proposta → contrato
 
@@ -124,10 +124,11 @@ Não vendemos ferramentas. Vendemos infraestrutura operacional e digital que ger
 
 > **Filosofia:** preço justo pelo valor entregue, não pelo tempo gasto. O ticket da Tondara se paga com a economia que gera.
 
-### Porta de Entrada — Diagnóstico Estratégico (Gratuito)
+### Porta de Entrada — Diagnóstico Estratégico - Gratuito
 - Reunião de 30–60 minutos
 - Mapeamento das dores e oportunidades de dados, automação e presença digital
-- Entrega de relatório com 3 quick wins identificados
+- Entrega de relatório com 3 quick wins (ganhos rápidos) identificados
+- Podemos apresentar soluções aqui se tiver mas não temos portfolio atual 
 - **Objetivo:** gerar confiança e abrir caminho para proposta
 
 ---

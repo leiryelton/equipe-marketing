@@ -7,7 +7,7 @@
 ## 1. Contexto e Escopo
 
 ### 1.1 Resumo da Proposta
-A Tondara é uma empresa boutique de engenharia de dados, software e agentes de IA em pré-lançamento, fundada por Leiryelton (engenheiro de dados formado pela Unicamp) e Brenda. A empresa se posiciona entre as grandes consultorias (inacessíveis para PMEs) e os freelancers avulsos (sem estrutura), oferecendo transformação operacional baseada em dados para empresas de médio porte com faturamento entre R$ 500 mil e R$ 50 milhões/ano.
+A Tondara é uma empresa  de engenharia de dados, software e agentes de IA em pré-lançamento, fundada por Leiryelton (engenheiro de dados formado pela Unicamp) e Brenda. A empresa se posiciona entre as grandes consultorias (inacessíveis para PMEs) e os freelancers avulsos (sem estrutura), oferecendo transformação operacional baseada em dados para empresas de médio porte com faturamento entre R$ 500 mil e R$ 50 milhões/ano.
 
 ### 1.2 Parâmetros da Pesquisa
 - **Base de operação:** Distrito Federal e Goiás (Brasil Central)

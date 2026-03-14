@@ -23,6 +23,9 @@ Fechar os primeiros 3 contratos pagos com construtoras PME de Goiânia, gerando 
 - 1.000 seguidores qualificados no LinkedIn em 90 dias (construtoras + agro + decisores do Centro-Oeste)
 - 10 conversas qualificadas de vendas por mês via orgânico
 
+### Metas Secundárias
+-  500 Usuários ativos na plataforma chat tondara. 
+
 > A métrica que importa não é seguidor — é diagnóstico agendado.
 
 ---
@@ -56,7 +59,7 @@ O Sinduscon é o sistema nervoso do setor. Construtoras confiam no sindicato, fr
 LinkedIn é onde os engenheiros civis, diretores de incorporadoras e gerentes de planejamento estão ativos. Não é rede social — é ferramenta de trabalho para o B2B.
 
 **Estratégia de conteúdo:**
-- 3 publicações por semana no perfil do Leiryelton
+- 3 publicações por semana no perfil da tondara feitos pela brenda vídeos 
 - Pilares de conteúdo:
   - **Dados na Construção Civil** — "Quanto custa não saber o custo real da sua obra", dados de mercado de Goiânia, INCC, maturidade digital
   - **Cases e Diagnósticos** — "Mapeei o fluxo de dados de uma construtora com 6 obras. Veja o que encontrei."
@@ -258,7 +261,7 @@ PÓS-VENDA (Retenção + Expansão)
 | Canva Pro / ferramentas de design | R$ 50 | Identidade visual consistente |
 | Sinduscon + eventos setoriais | R$ 500 | Taxa de participação, materiais impressos |
 | Almoços de relacionamento (indicadores) | R$ 500 | Contadores, advogados, parceiros |
-| **Total mensal** | **R$ 1.350** | |
+| **Total mensal** | **R$ 1.350** | | NO começo 350 somente meta ads e google ads 
 
 ### Orçamento Mensal — Fase 2 (Meses 4–6)
 
@@ -271,7 +274,7 @@ PÓS-VENDA (Retenção + Expansão)
 | Sinduscon + eventos | R$ 500 | |
 | Almoços/networking | R$ 500 | |
 | Eventos nacionais (reserva) | R$ 1.000 | Feicon, CBIC Regional |
-| **Total mensal** | **R$ 4.500** | |
+| **Total mensal** | **R$ 4.500** | | -  No máximo 600 reais investimento
 
 > **Filosofia:** o orçamento da fase 1 é deliberadamente baixo — a prioridade é provar que o funil funciona com esforço orgânico e prospecção ativa. Cada contrato da Tondara vale R$ 5k–60k. Um único contrato paga 3–6 meses de marketing. O orçamento cresce somente quando o ROI está comprovado.
 
