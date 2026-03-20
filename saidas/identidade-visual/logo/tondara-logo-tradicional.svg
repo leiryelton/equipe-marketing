@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400">
+  <defs>
+    <linearGradient id="mainGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB997"/>
+      <stop offset="50%" stop-color="#4FD1C5"/>
+      <stop offset="100%" stop-color="#C6A8FF"/>
+    </linearGradient>
+    <filter id="softShadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="8" flood-color="#4FD1C5" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="600" height="400" fill="#FFFFFF"/>
+
+  <!-- Hexágono Externo -->
+  <polygon
+    points="300,50 378,95 378,185 300,230 222,185 222,95"
+    fill="none"
+    stroke="url(#mainGrad)"
+    stroke-width="5.5"
+    stroke-linejoin="round"
+    filter="url(#softShadow)"
+  />
+
+  <!-- Hexágono Interno -->
+  <polygon
+    points="300,85 352,112 352,166 300,193 248,166 248,112"
+    fill="none"
+    stroke="url(#mainGrad)"
+    stroke-width="3.2"
+    stroke-linejoin="round"
+    opacity="0.78"
+  />
+
+  <!-- Texto TONDARA -->
+  <text
+    x="300"
+    y="300"
+    font-family="Montserrat, 'Segoe UI Black', 'Arial Black', sans-serif"
+    font-weight="800"
+    font-size="44"
+    letter-spacing="9"
+    text-anchor="middle"
+    fill="#1E293B"
+  >TONDARA</text>
+</svg>
